@@ -1,7 +1,6 @@
 # Formas de representar grafos
 ## Uma matriz N*N em que N são os vértices. Se houver uma aresta incidente a posição mat[n1][n1], o valor é 1. Se não, o valor é 0.
 
-
 # Exemplo
 ## Vertices = [1, 2, 3, 4]
 ## Arestas = [{1,2}, {2,3}, {1,3}, {3,4}, {2, 4}]
