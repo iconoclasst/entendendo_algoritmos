@@ -1,3 +1,3 @@
 ### Entendendo algoritmos
 
-<img src="capa.png" width=50%>  
+<img src="wallpaper.png" width=50%>  
